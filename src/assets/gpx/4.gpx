@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="MTK - http://www.toursprung.com" version="1.1"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+   <metadata>
+      <name><![CDATA[Hotel - Dubash Lane]]></name>
+      
+   </metadata>
+   
+      <trk><name><![CDATA[Hotel - Dubash Lane]]></name><trkseg>
+         <trkpt lat="18.96395" lon="72.81592"><ele>9</ele></trkpt>
+<trkpt lat="18.96292" lon="72.81552"><ele>6</ele></trkpt>
+<trkpt lat="18.96281" lon="72.81542"><ele>6</ele></trkpt>
+<trkpt lat="18.96256" lon="72.8161"><ele>7</ele></trkpt>
+<trkpt lat="18.96224" lon="72.81597"><ele>8</ele></trkpt>
+<trkpt lat="18.96216" lon="72.81603"><ele>9</ele></trkpt>
+<trkpt lat="18.96208" lon="72.81715"><ele>9</ele></trkpt>
+<trkpt lat="18.96197" lon="72.81765"><ele>9</ele></trkpt>
+<trkpt lat="18.96119" lon="72.81741"><ele>9</ele></trkpt>
+<trkpt lat="18.96009" lon="72.81732"><ele>12</ele></trkpt>
+<trkpt lat="18.95977" lon="72.8173"><ele>12</ele></trkpt>
+<trkpt lat="18.95963" lon="72.81735"><ele>12</ele></trkpt>
+<trkpt lat="18.9593" lon="72.81736"><ele>11</ele></trkpt>
+<trkpt lat="18.9592" lon="72.81738"><ele>11</ele></trkpt>
+<trkpt lat="18.95898" lon="72.81734"><ele>10</ele></trkpt>
+<trkpt lat="18.95845" lon="72.81712"><ele>10</ele></trkpt>
+<trkpt lat="18.95833" lon="72.81735"><ele>10</ele></trkpt>
+<trkpt lat="18.95814" lon="72.81773"><ele>10</ele></trkpt>
+<trkpt lat="18.95806" lon="72.81801"><ele>11</ele></trkpt>
+<trkpt lat="18.95802" lon="72.8183"><ele>11</ele></trkpt>
+<trkpt lat="18.95802" lon="72.81847"><ele>11</ele></trkpt>
+<trkpt lat="18.95788" lon="72.81882"><ele>11</ele></trkpt>
+<trkpt lat="18.95797" lon="72.81916"><ele>11</ele></trkpt>
+<trkpt lat="18.95806" lon="72.81982"><ele>12</ele></trkpt>
+<trkpt lat="18.95802" lon="72.82009"><ele>13</ele></trkpt>
+<trkpt lat="18.95806" lon="72.82074"><ele>12</ele></trkpt>
+<trkpt lat="18.95808" lon="72.82122"><ele>10</ele></trkpt>
+<trkpt lat="18.95811" lon="72.82179"><ele>12</ele></trkpt>
+<trkpt lat="18.95789" lon="72.82176"><ele>13</ele></trkpt>
+<trkpt lat="18.95776" lon="72.82171"><ele>13</ele></trkpt>
+      </trkseg></trk>
+   
+</gpx>
+   

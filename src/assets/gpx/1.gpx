@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="MTK - http://www.toursprung.com" version="1.1"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+   <metadata>
+      <name><![CDATA[liftingsolutions]]></name>
+      
+   </metadata>
+   
+      <trk><name><![CDATA[liftingsolutions]]></name><trkseg>
+         <trkpt lat="28.68777" lon="77.17484"><ele>218</ele></trkpt>
+<trkpt lat="28.68777" lon="77.17484"><ele>218</ele></trkpt>
+<trkpt lat="28.67715" lon="77.18917"><ele>215</ele></trkpt>
+<trkpt lat="28.6694" lon="77.18419"><ele>219</ele></trkpt>
+<trkpt lat="28.66571" lon="77.20093"><ele>218</ele></trkpt>
+<trkpt lat="28.66397" lon="77.2084"><ele>226</ele></trkpt>
+<trkpt lat="28.66066" lon="77.20505"><ele>226</ele></trkpt>
+<trkpt lat="28.65441" lon="77.20453"><ele>231</ele></trkpt>
+<trkpt lat="28.65147" lon="77.20539"><ele>239</ele></trkpt>
+<trkpt lat="28.65373" lon="77.21586"><ele>225</ele></trkpt>
+<trkpt lat="28.65712" lon="77.21603"><ele>226</ele></trkpt>
+<trkpt lat="28.6639" lon="77.22093"><ele>220</ele></trkpt>
+<trkpt lat="28.66744" lon="77.22127"><ele>218</ele></trkpt>
+<trkpt lat="28.6712" lon="77.2326"><ele>213</ele></trkpt>
+<trkpt lat="28.67587" lon="77.22977"><ele>213</ele></trkpt>
+<trkpt lat="28.67662" lon="77.22427"><ele>220</ele></trkpt>
+<trkpt lat="28.67316" lon="77.2156"><ele>228</ele></trkpt>
+<trkpt lat="28.66721" lon="77.20951"><ele>227</ele></trkpt>
+<trkpt lat="28.6767" lon="77.20307"><ele>219</ele></trkpt>
+<trkpt lat="28.68777" lon="77.17484"><ele>217</ele></trkpt>
+      </trkseg></trk>
+   
+</gpx>
+   
